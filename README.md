@@ -1,2 +1,4 @@
 # calculator1
-https://calculator1-home.netlify.app/
+### [Play Online](https://calculator1-home.netlify.app/)
+### [![calculator preview](/assets/calculator.png)](https://calculator1-home.netlify.app/)
+
